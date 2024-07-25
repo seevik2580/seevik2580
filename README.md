@@ -40,7 +40,7 @@ This tool is written in python and was originaly created for my friend whom need
 This tool is written in python and was originaly created for my entitled friend whom lost his wallet password and needed my help to obtain his wallet access back for some big reward for me. This was originaly private app written only for him but he decided to betray me and i didn't get any reward for saving his millions. So i decided to publish this app because it may help others and that made him very angry. In the end, ive got some cash from him as a reward but i wont be deleting this app as a reminder for him that its not right to screw his friends whom tried to help him.
 
 ### [HELLO-SIR](https://github.com/seevik2580/hello-sir)
-This tool is written in python and created for my personal revenge to scammers whom tried to call me all the time with some bull**it offers (microsoft support, antivirus companies, bitcoin traders, insurances, etc..)
+This tool is written in python and created for my personal revenge to Indian scammers whom tried to call me all the time with some bull**it offers (microsoft support, antivirus companies, bitcoin traders, insurances, etc..)
 
 - I have several more projects but they are unfortunately private. Maybe some day i will publish them too.
 
