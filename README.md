@@ -34,6 +34,7 @@ As a professional, I am known for my reliability, excellent communication skills
 ## Public projects
 
 ### [TOR-IP-CHANGER](https://github.com/seevik2580/tor-ip-changer)
+[![Star History Chart](https://api.star-history.com/svg?repos=seevik2580/tor-ip-changer&type=Date)](https://star-history.com/#seevik2580/tor-ip-changer&Date)
 This tool is written in python and was originaly created for my friend whom need to win some online voting contest for their babies xD Later i published that for others.
 
 ### [ETHEREUM-WALLET-RECOVERY](https://github.com/seevik2580/ethereum-wallet-recovery)
@@ -43,6 +44,10 @@ This tool is written in python and was originaly created for my entitled friend 
 This tool is written in python and created for my personal revenge to scammers whom tried to call me all the time with some bull**it offers (microsoft support, antivirus companies, bitcoin traders, insurances, etc..)
 
 - I have several more projects but they are unfortunately private. Maybe some day i will publish them too.
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=seevik2580/tor-ip-changer,seevik2580/ethereum-wallet-recovery,seevik2580/hello-sir&type=Date)](https://star-history.com/#seevik2580/tor-ip-changer&seevik2580/ethereum-wallet-recovery&seevik2580/hello-sir&Date)
 
 ## GitHub Stats
 
