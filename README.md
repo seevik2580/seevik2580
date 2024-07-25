@@ -19,8 +19,9 @@ As a professional, I am known for my reliability, excellent communication skills
 
 ### Languages
 - Python
-- Java
 - Lua
+- Bash
+- Java
 - Javascript
 - C++
 - C#
@@ -28,19 +29,20 @@ As a professional, I am known for my reliability, excellent communication skills
 - Ruby
 - PHP
 - SQL
-- Bash
 - Perl
-
 
 ## Public projects
 
 ### [TOR-IP-CHANGER](https://github.com/seevik2580/tor-ip-changer)
-**Description**: This tool is written in python and was originaly created for my friend whom need to win some online voting contest for their babies xD Later i published that for others.
+This tool is written in python and was originaly created for my friend whom need to win some online voting contest for their babies xD Later i published that for others.
 
 ### [ETHEREUM-WALLET-RECOVERY](https://github.com/seevik2580/ethereum-wallet-recovery)
-**Description**: This tool is written in python and was originaly created for my entitled friend whom lost his wallet password and needed my help to obtain his wallet access back for some big reward for me. This was originaly private app written only for him but he decided to betray me and i didn't get any reward for saving his millions. So i decided to publish this app because it may help others and that made him very angry. In the end, ive got some cash from him as a reward but i wont be deleting this app as a reminder for him that its not right to screw his friends whom tried to help him.
+This tool is written in python and was originaly created for my entitled friend whom lost his wallet password and needed my help to obtain his wallet access back for some big reward for me. This was originaly private app written only for him but he decided to betray me and i didn't get any reward for saving his millions. So i decided to publish this app because it may help others and that made him very angry. In the end, ive got some cash from him as a reward but i wont be deleting this app as a reminder for him that its not right to screw his friends whom tried to help him.
 
-- I have several more projects but they are unfortunately private.
+### [HELLO-SIR](https://github.com/seevik2580/hello-sir)
+This tool is written in python and created for my personal revenge to scammers whom tried to call me all the time with some bull**it offers (microsoft support, antivirus companies, bitcoin traders, insurances, etc..)
+
+- I have several more projects but they are unfortunately private. Maybe some day i will publish them too.
 
 ## GitHub Stats
 
