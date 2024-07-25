@@ -34,7 +34,6 @@ As a professional, I am known for my reliability, excellent communication skills
 ## Public projects
 
 ### [TOR-IP-CHANGER](https://github.com/seevik2580/tor-ip-changer)
-[![Star History Chart](https://api.star-history.com/svg?repos=seevik2580/tor-ip-changer&type=Date)](https://star-history.com/#seevik2580/tor-ip-changer&Date)
 This tool is written in python and was originaly created for my friend whom need to win some online voting contest for their babies xD Later i published that for others.
 
 ### [ETHEREUM-WALLET-RECOVERY](https://github.com/seevik2580/ethereum-wallet-recovery)
