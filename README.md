@@ -46,13 +46,7 @@ This tool is written in python and created for my personal revenge to scammers w
 
 ## Star History
 
-<a href="https://star-history.com/#seevik2580/tor-ip-changer&seevik2580/ethereum-wallet-recovery&seevik2580/hello-sir&Date">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=seevik2580/tor-ip-changer,seevik2580/ethereum-wallet-recovery,seevik2580/hello-sir&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=seevik2580/tor-ip-changer,seevik2580/ethereum-wallet-recovery,seevik2580/hello-sir&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=seevik2580/tor-ip-changer,seevik2580/ethereum-wallet-recovery,seevik2580/hello-sir&type=Date" />
- </picture>
-</a>
+[![Star History Chart](https://api.star-history.com/svg?repos=seevik2580/tor-ip-changer,seevik2580/ethereum-wallet-recovery,seevik2580/hello-sir&type=Date)](https://star-history.com/#seevik2580/tor-ip-changer&seevik2580/ethereum-wallet-recovery&seevik2580/hello-sir&Date)
 
 ## GitHub Stats
 
