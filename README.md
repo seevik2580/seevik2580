@@ -46,7 +46,7 @@ This tool is written in python and created for my personal revenge to Indian sca
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=seevik2580/tor-ip-changer,seevik2580/ethereum-wallet-recovery,seevik2580/hello-sir&type=Date)](https://star-history.com/#seevik2580/tor-ip-changer&seevik2580/ethereum-wallet-recovery&seevik2580/hello-sir&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=seevik2580/tor-ip-changer,seevik2580/ethereum-wallet-recovery&type=Date)](https://star-history.com/#seevik2580/tor-ip-changer&seevik2580/ethereum-wallet-recovery&Date)
 
 ## GitHub Stats
 
